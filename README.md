@@ -1,4 +1,4 @@
-# Municipes
+# TouristSpotApi
 
 API Search for Tourist Spot
 
